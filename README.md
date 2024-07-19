@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React and Java Script.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/shrey-111](https://github.com/shrey-111)
+- 👨‍💻 Love to learn new technologies and to explore new sets of areas.
 
 - 💬 Ask me about **frontend development.**
 
