@@ -5,7 +5,7 @@
 <img align="right" alt ="coding" width="400" src="https://startcoding.co.in/wp-content/uploads/2021/12/coding-for-kids.gif">
 
 
-- 🔭 I’m currently working on **studying computer science.**
+- 🔭 I’m currently  **studying computer science.**
 
 - 🌱 I’m currently learning **React and Java Script.**
 
