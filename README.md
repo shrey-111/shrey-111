@@ -15,8 +15,7 @@
 
 - 📫 How to reach me **21cse111@gweca.ac.in**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1A5Zg7gX1xhINAQWHYnmGiHD0G-kXvbQOKQgaTuf9rFk/edit?usp=sharing]https://drive.google.com/file/d/1NB42JAwmFW0QfvTcSui2OSaG9qj6CGhp/view?usp=sharing
-
+- 📄 Know about my experiences https://drive.google.com/file/d/1NB42JAwmFW0QfvTcSui2OSaG9qj6CGhp/view?usp=sharing
 - ⚡ Fun fact **I think I am funny .**
 
 <h3 align="left">Connect with me:</h3>
