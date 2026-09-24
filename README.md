@@ -5,7 +5,12 @@
 ## 📄 Resume
 
 [View My Resume](https://drive.google.com/file/d/1BFvtTWrY_Pc-x2_jLdsQTo3XBil-pe2N/view?usp=sharing)
+
+---
+
 [PORTFOLIO]_(https://shreya-portfolio-1-eight.vercel.app/)
+
+---
 
 I'm a Computer Science graduate passionate about building practical
 software solutions using Python, AI/ML and modern web technologies.
