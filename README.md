@@ -10,7 +10,7 @@ with APIs and data, and exploring how AI and LLMs can be integrated
 into real-world software.
 
 ---
-
+<img align="right" alt ="coding" width="400" src="https://startcoding.co.in/wp-content/uploads/2021/12/coding-for-kids.gif">
 ## 🧠 About Me
 
 - 🎓 Computer Science Engineering graduate
