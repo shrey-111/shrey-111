@@ -159,6 +159,14 @@ I'm currently exploring:
 
 ---
 
+## 📫 Connect With Me
+
+- LinkedIn: [My LinkedIn](YOUR_LINKEDIN_URL)
+- GitHub: [My GitHub](YOUR_GITHUB_URL)
+- Email: YOUR_EMAIL
+
+ ---
+
 # 💻 Engineering Interests
 
 I enjoy working on:
