@@ -8,7 +8,7 @@
 
 ---
 
-[PORTFOLIO]_(https://shreya-portfolio-1-eight.vercel.app/)
+🌐 *[View My Portfolio](https://shreya-portfolio-1-eight.vercel.app/)*
 
 ---
 
