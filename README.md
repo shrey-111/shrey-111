@@ -1,51 +1,179 @@
-## Hi there 👋
+# Hi 👋, I'm Shreya
 
-<<h1 align="center">Hi 👋, I'm SHREYA</h1>
-<h3 align="center">A passionate computer science student from India</h3>
-<img align="right" alt ="coding" width="400" src="https://startcoding.co.in/wp-content/uploads/2021/12/coding-for-kids.gif">
+### Python Developer | AI/ML Enthusiast | Full-Stack Developer
 
+I'm a Computer Science graduate passionate about building practical
+software solutions using Python, AI/ML and modern web technologies.
 
-- 🔭 I’m currently  **studying computer science.**
+I enjoy solving technical problems, debugging applications, working
+with APIs and data, and exploring how AI and LLMs can be integrated
+into real-world software.
 
-- 🌱 I’m currently learning **React and Java Script.**
+---
 
-- 👨‍💻 Love to learn new technologies and to explore new sets of areas.
+## 🧠 About Me
 
-- 💬 Ask me about **frontend development.**
+- 🎓 Computer Science Engineering graduate
+- 🐍 Strong interest in Python and AI/ML
+- 🤖 Exploring LLMs, AI-assisted development and AI agents
+- 🌐 Experience building full-stack web applications
+- 🔧 Comfortable working with Git, APIs and CLI-based workflows
+- 🧪 Interested in testing, debugging and improving software reliability
+- 🚀 Always learning and building practical projects
 
-- 📫 How to reach me **21cse111@gweca.ac.in**
+---
 
-- 📄 Know about my experiences https://drive.google.com/file/d/1NB42JAwmFW0QfvTcSui2OSaG9qj6CGhp/view?usp=sharing
-- ⚡ Fun fact **I think I am funny .**
+## 🛠️ Tech Stack
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shreya417592236/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shreya417592236/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/21cse111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/21cse111" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/shreya111/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/shreya111/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/11cse02/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/11cse02/" height="30" width="40" /></a>
-</p>
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+### AI / Machine Learning
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![LLM](https://img.shields.io/badge/LLMs-412991?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shrey-111&show_icons=true&locale=en&layout=compact" alt="shrey-111" /></p>
+### Web Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shrey-111&show_icons=true&locale=en" alt="shrey-111" /></p>
+### Tools & Engineering
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shrey-111&" alt="shrey-111" /></p>
+---
 
-!--
-**shrey-111/shrey-111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🚀 Featured Projects
 
-Here are some ideas to get you started:
+## 🤖 AI Brainstorm Buddy
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Full-Stack AI / LLM Application*
+
+An AI-powered discussion platform designed to help users
+brainstorm ideas, ask questions and interact with AI-assisted
+responses.
+
+### Key Features
+
+- 🤖 AI-assisted responses using LLM APIs
+- 💬 Interactive discussion interface
+- 🔐 User authentication
+- 🌐 REST API integration
+- 📊 Structured handling of user and AI-generated data
+- ⚡ Responsive React-based interface
+
+### Tech Stack
+
+React Node.js Express.js MongoDB LLM API REST API
+
+---
+
+## 🩺 Heart Disease Prediction
+
+*Machine Learning + Django*
+
+A machine-learning application that predicts the likelihood
+of heart disease based on patient input data.
+
+### Key Features
+
+- 🐍 Python-based ML pipeline
+- 📊 Data preprocessing
+- 🤖 Multiple classification models
+- 📈 Model evaluation
+- 🌐 Django web interface
+- 🔍 Prediction workflow integrated with the web application
+
+### Tech Stack
+
+Python Scikit-learn Pandas Django Machine Learning
+
+---
+
+## 🏥 Prescripto — Doctor Appointment System
+
+*Full-Stack MERN Application*
+
+A complete doctor appointment platform with separate workflows
+for patients, doctors and administrators.
+
+### Key Features
+
+- 👤 Patient authentication
+- 👨‍⚕️ Doctor management
+- 📅 Appointment booking
+- 🛠️ Admin dashboard
+- 💳 Payment integration
+- ☁️ Cloud-based image storage
+- 🔌 REST APIs
+
+### Tech Stack
+
+React Node.js Express.js MongoDB REST API
+
+---
+
+## 🔎 Image Search Engine
+
+*Frontend + API Integration*
+
+A responsive image search application that retrieves and displays
+images through an external API.
+
+### Key Features
+
+- 🔎 Dynamic image search
+- 🔗 External API integration
+- ⚡ Asynchronous requests
+- 📱 Responsive interface
+- 🖼️ Dynamic image rendering
+
+### Tech Stack
+
+HTML CSS JavaScript REST API
+
+---
+
+# 🤖 AI & LLM Interests
+
+I'm currently exploring:
+
+- 🧠 Large Language Models (LLMs)
+- 🔗 LLM API integration
+- 🤖 AI Agents
+- 🧩 Prompt Engineering
+- 📊 AI/ML model evaluation
+- ⚙️ AI-assisted software development
+- 🔄 Automation workflows
+- 🐍 Python-based AI applications
+
+---
+
+# 💻 Engineering Interests
+
+I enjoy working on:
+
+```text
+Problem
+   ↓
+Understand the requirements
+   ↓
+Design the solution
+   ↓
+Implement
+   ↓
+Test & Debug
+   ↓
+Improve
+   ↓
+Document
