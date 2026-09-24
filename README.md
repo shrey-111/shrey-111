@@ -161,9 +161,9 @@ I'm currently exploring:
 
 ## 📫 Connect With Me
 
-- LinkedIn: [My LinkedIn](YOUR_LINKEDIN_URL)
-- GitHub: [My GitHub](YOUR_GITHUB_URL)
-- Email: YOUR_EMAIL
+- LinkedIn: [My LinkedIn](https://www.linkedin.com/in/shreya417592236/)
+- GitHub: [My GitHub](https://github.com/shrey-111)
+- Email:shreyashreya63772@gmail.com
 
  ---
 
